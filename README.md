@@ -1,46 +1,14 @@
-## Hi there 👋 I’m Adi Antas Jain
+## Hi 👋 I’m Adi Antas Jain
 
-🎓 2nd-year undergraduate in **AI & ML**  
-🧠 Focused on **Data Structures & Algorithms** and practical **Machine Learning**  
-📐 Learning with an emphasis on fundamentals, depth, and correctness
+🎓 2nd-year **AI & ML** undergraduate  
+🧠 **DSA-focused**, with practical **Machine Learning**  
+📐 Learning with emphasis on fundamentals and correctness
 
----
-
-### 🔭 Currently focused on
-- **Advanced Data Structures & Algorithms**
-  - Dynamic Programming (patterns, optimizations)
-  - Trees, Heaps, Graphs, Tries, and algorithmic design
-- Strengthening logic, complexity analysis, and problem decomposition
-
-### 🌱 Currently learning
-- Advanced DSA techniques
-- Applying **Machine Learning** concepts with strong mathematical intuition
-- Writing efficient, readable, and scalable code
-
-### 🧠 Previously worked on
-- **Hospital Management System** (DSA)
-- **Vendor Management System** (DSA)
-- **Crop Yield prediction Model** (ML)
-- Completed **Machine Learning** (theory + implementation)
-
-### 👯 Open to collaborating on
-- **DSA-focused repositories** (problem solving, algorithm design)
-- **Machine Learning projects** with emphasis on fundamentals
-- Learning-oriented open-source contributions
-
-### 💬 Ask me about
-- Dynamic Programming intuition and state design
-- Choosing the right data structure for a problem
-- Machine Learning concepts, assumptions, and trade-offs
-
-### 📫 How to reach me
-- GitHub: **@AdiAntasJain2006**
-- Email : **adiantasjain724@gmail.com**
-- **https://www.linkedin.com/in/adi-antas-jain/**
-
-### 😄 Pronouns
-- He / Him
-
-### ⚡ Fun fact
-- I treat ML models like algorithms: if the assumptions break, the solution does too 🤖
-
+- 🔭 Focus: Advanced **DSA** (DP, Trees, Heaps, Graphs, Tries)
+- 🌱 Learning: Advanced DSA + ML with strong mathematical intuition
+- 🧠 Past: Hospital Management (DSA), Vendor Management (DSA), Crop Yield Prediction (ML)
+- 👯 Collaborate: **DSA** & **ML** projects, learning-focused OSS
+- 💬 Ask me: DP intuition, data structure choice, ML assumptions
+- 📫 Reach me: **adiantasjain724@gmail.com** | [LinkedIn](https://www.linkedin.com/in/adi-antas-jain/)
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: ML models fail like algorithms when assumptions break 🤖
